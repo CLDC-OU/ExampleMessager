@@ -1,0 +1,12 @@
+[project]
+name = "messager"
+version = "1.0.0"
+authors = [
+  { name = "Claire Childers", email=clairechilders@oakland.edu" },
+]
+description = "A basic messaging script for demonstration purposes"
+classifiers = []
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/CLDC-OU/ExampleMessager"
